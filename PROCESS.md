@@ -1,0 +1,3 @@
+1. Start with a simple viewer utilizing Vue and loading the JSON through the web browser.  It should load the data and probably display it in tabular form.  Add some reactivity with filtering users, jumping between Heats and Rounds and other information.  I'll add more details onto what to display for overview and other times once I get data situated.
+1. Would be nice to then add in graphs utilizing D3.  Graphs for rounds, graphs across time for different heats where it displays fastest lap, average lap, slowest lap and top 3 consecutive laps.
+1. Then we start looking into setting up a backend that can record and log data for multiple races instead of just a single race.
